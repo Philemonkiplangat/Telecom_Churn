@@ -117,6 +117,7 @@ Model: XG Boost
 Test Accuracy: 0.808 %
 
 Model: Naive Bayes
+Test Accuracy:0.76 %
 
 *Best Model:*
 - XGBOOST model had the highest accuracy of 0.808 which is rounded to 81%.
